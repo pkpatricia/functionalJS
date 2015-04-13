@@ -15,3 +15,5 @@
     var processPaymentOnce = once(chargeCreditCard);
     processPaymentOnce(123456789012, 200);
   ```
+  this keyword
+  .apply
